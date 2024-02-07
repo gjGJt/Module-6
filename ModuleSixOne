@@ -36,7 +36,7 @@ int main()
     if (oakorpine == "Oak") {
         priceoakorpine = 20; //for Oak
     } else if (oakorpine == "Pine") {
-        priceoakorpine = 15;  // Changed to 15 for Pine
+        priceoakorpine = 0;  // Changed to 15 for Pine
     }
 
     // Set price for gold leaf option
